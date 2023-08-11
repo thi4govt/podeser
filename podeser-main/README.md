@@ -1,2 +1,0 @@
-# podeser
-coisas da vida
